@@ -6,13 +6,14 @@
 - [Installation & Getting the Code](#getting-the-code)
 - [To Run the Tests](#how-to-run-the-tests)
 
-#Introduction
+# Introduction
+
 This repository holds the Cypress - Javascript Automation tests as part of the assignment of nu3 organization.
 
- -Automated following test cases of login module
-        ✓ Login with valid credentials and verify successful login
-        ✓ Login with invalid credentials and verify error message
-        ✓ Login with empty values and verify error message
+ - Automated following test cases of login module 
+      - Login with valid credentials and verify successful login
+      - Login with invalid credentials and verify error message 
+      - Login with empty values and verify error message
 
 ## Required Software
 - Cypress version - 13.6.6
