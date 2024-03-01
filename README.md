@@ -32,7 +32,8 @@ This repository holds the Cypress - Javascript Automation tests as part of the a
 
    ```
   npm run test
-
+  ```
 ### Screenshot of test case execution result
+
 ![Screenshot](cypress/support/docs/test_execution_result.png)
 ![Screenshot](cypress/support/docs/test_execution_cypress.png)
